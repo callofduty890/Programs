@@ -11,7 +11,7 @@ namespace 演示Github程序
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("你好世界!");
         }
     }
 }
